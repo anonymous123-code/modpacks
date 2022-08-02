@@ -16,6 +16,11 @@ hash = "d8ab07c1dcf51ad3f5cf25f425f938c3540e575e3353ff6c0f5d0c4b990a38ab"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "4de24ddd51cba8dfddd2e66fa2c659013596289839f888a0c8f6222669e75637"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "bafd39266238b92226a1fb61700015fc87fba25ce3a8ea4781d6d311079979d9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -121,11 +131,6 @@ hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
 metafile = true
 
 [[files]]
-file = "mods/purpeille.pw.toml"
-hash = "c519aeda42ea86c925c58f0e39a7410d29db080321f2cdf542de926caa089cf8"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "2ae2a17a9a92f337fe58dddc9245f890f4fc55a0421bc9708890068a5be77489"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/rebind-all-the-keys.pw.toml"
 hash = "e2b04a5345909cde326905c47c45a0c68e3025bd6901f25dc8178b4826256d11"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
