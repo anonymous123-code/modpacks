@@ -11,11 +11,6 @@ hash = "bbedc017e47d1ba2bf1f62f06262de636f926090cdaadee90f2e8d6d1c1ede6f"
 metafile = true
 
 [[files]]
-file = "mods/arch-ex.pw.toml"
-hash = "d8ab07c1dcf51ad3f5cf25f425f938c3540e575e3353ff6c0f5d0c4b990a38ab"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
@@ -57,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs-updated.pw.toml"
-hash = "a8ec5fd59ff7ddab287b339ca91c49af53ecea28105d764a1b560c4fbdfaf7d6"
+hash = "d1c03ba1553a152bf5398a0ecde6bb5f8eb041733dfef8aac2b37e3dd1400dd3"
 metafile = true
 
 [[files]]
@@ -69,6 +64,10 @@ metafile = true
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
+
+[[files]]
+file = "mods/lambdamap-1.0.0-alpha.1+1.19.jar"
+hash = "2f447054b06e64db709d9ee522a507deb57544257dc9b877af97c51945f30cc6"
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
@@ -136,6 +135,11 @@ hash = "2ae2a17a9a92f337fe58dddc9245f890f4fc55a0421bc9708890068a5be77489"
 metafile = true
 
 [[files]]
+file = "mods/quickconnectbutton.pw.toml"
+hash = "28f8c92f35abde6bff7864a64710b79f0c8ba01b5d377fa2f6cf06d3034ae92c"
+metafile = true
+
+[[files]]
 file = "mods/rebind-all-the-keys.pw.toml"
 hash = "e2b04a5345909cde326905c47c45a0c68e3025bd6901f25dc8178b4826256d11"
 metafile = true
@@ -143,11 +147,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
-metafile = true
-
-[[files]]
-file = "mods/sandwichable.pw.toml"
-hash = "a699a941a8354f49dded3e15a08603f3c134ef861ee4bf38960911cfc020c583"
 metafile = true
 
 [[files]]
