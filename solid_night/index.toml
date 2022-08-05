@@ -140,11 +140,6 @@ hash = "28f8c92f35abde6bff7864a64710b79f0c8ba01b5d377fa2f6cf06d3034ae92c"
 metafile = true
 
 [[files]]
-file = "mods/rebind-all-the-keys.pw.toml"
-hash = "e2b04a5345909cde326905c47c45a0c68e3025bd6901f25dc8178b4826256d11"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
