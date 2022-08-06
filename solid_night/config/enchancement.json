@@ -1,0 +1,27 @@
+{
+  "allowedEnchantments": [
+	"minecraft:loyalty"
+  ],
+  "invertedList": true,
+  "overhaulEnchantingTable": false,
+  "allowTreasureEnchantmentsInEnchantingTable": false,
+  "experienceLevelCost": 5,
+  "lapisLazuliCost": 5,
+  "singleEnchantmentMode": false,
+  "singleLevelMode": false,
+  "allowInfinityOnCrossbows": true,
+  "allTridentsHaveLoyalty": true,
+  "channelingWorksWhenNotThundering": true,
+  "fireAspectWorksAsFlintAndSteel": true,
+  "freeEnchantedBookMerging": false,
+  "luckOfTheSeaHasLure": false,
+  "negateEnderPearlDamage": false,
+  "safeChanneling": true,
+  "tridentsReturnFromVoid": true,
+  "weakerPotions": false,
+  "weaponEnchantmentCooldownRequirement": 0.2,
+  "maxExtractingBlocks": 64,
+  "maxLumberjackBlocks": 1024,
+  "maxLumberjackHorizontalLength": 7,
+  "unbreakingChangesFlag": 3
+}
