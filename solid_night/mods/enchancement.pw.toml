@@ -1,13 +1,13 @@
 name = "Enchancement"
-filename = "enchancement-1.19-3.jar"
+filename = "enchancement-1.19-4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6481bc019ee2f66895b1bff7c9d1ccb2e51309cd"
+hash = "6c9ea640db9c1bb537a33cea5fe3f9c83b209c46"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3895630
+file-id = 3934409
 project-id = 598056
