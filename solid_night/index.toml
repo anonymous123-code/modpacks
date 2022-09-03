@@ -184,11 +184,6 @@ hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
-file = "mods/revelationary.pw.toml"
-hash = "e5d5f6f1fc44cde4624f546380ad285a115d775534f9a6566c7b3254b8df331e"
-metafile = true
-
-[[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "2fe2ccb0bcfdf5570846b2e9c990245fa8d8d44587bf10ff8fe61e8dff2a0cf1"
 metafile = true
@@ -206,11 +201,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.pw.toml"
-hash = "919c0c50a5384d5fc8395793867cf3c1d3120899b117415e955b4be1a3abbd8b"
 metafile = true
 
 [[files]]
