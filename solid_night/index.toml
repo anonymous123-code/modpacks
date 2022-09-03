@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "7ba242a7c05a399a13316e8218a12bb43c6524146b6b71ec7b01c7a2aefd4812"
+hash = "25f249a88ba44e5db42aae4877790f528cc8805e54e9484239b3396e7b5fb4ac"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "35fefbf2a09f2899361fd9a7999138e06f804aa8b89dfc5a323103a219c2d88a"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e17ae2c96de4d1c334308a80f4c63f1f071035911334186a9f1bd77496c105a5"
+hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "b3a5f6bcab7382577050322f78a606f06e2011bf69a9baa179c687317368d1ae"
+hash = "b8fc16dda19cf918380c01d8ffb49c1380904dbe6d8290c6758e4ae5e07b1a06"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "bb090e9eaa0a347174edefa4449cb04d0fc1e1eeb00483c844033821a34e6619"
+hash = "28ada72bcca86b540ca97e537a70dec266bc89225eadd29026c2fc3390355ab9"
 metafile = true
 
 [[files]]
@@ -200,17 +200,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "03cb6f0793621021fc5c71403aad928bca39cb29be15aa3e43e4865cdcef06ca"
+hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9322c7f9663b04bfbadb4fd6bb36a4ad5336bd3999a8542287b2d58834c86b83"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "9913f8d60be6f7573628482d28cd7f7630e2251b4e97fe50c27a25a548a52dc5"
+hash = "919c0c50a5384d5fc8395793867cf3c1d3120899b117415e955b4be1a3abbd8b"
 metafile = true
 
 [[files]]
@@ -265,5 +265,5 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "f182567c8cdcb8f6a99148b6d214f299d16d332e9fe4fac9e591a092cb3419c7"
+hash = "ef39074887285044927d856ccc8dded43004e5ae531227bcb4ec1a731102b2d5"
 metafile = true
